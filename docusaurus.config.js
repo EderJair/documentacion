@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://upload.wikimedia.org/wikipedia/commons/1/17/Logitech_logo.svg',
+          src: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg',
         },
         items: [
           // {
